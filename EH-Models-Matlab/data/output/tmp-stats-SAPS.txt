@@ -1,0 +1,221 @@
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.5291e+008
+      runtimes: [3000x1 double]
+           MAE: 0.7069
+          RMSE: 1.1736
+      trainMAE: 0.7046
+     trainRMSE: 1.1793
+            r2: 0.8809
+         adjR2: 0.8768
+         preds: [3000x1 double]
+         model: [465x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.5291e+008
+      runtimes: [3000x1 double]
+           MAE: 0.7069
+          RMSE: 1.1736
+      trainMAE: 0.7046
+     trainRMSE: 1.1793
+            r2: 0.8809
+         adjR2: 0.8768
+         preds: [3000x1 double]
+         model: [465x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.5291e+008
+      runtimes: [3000x1 double]
+           MAE: 0.7069
+          RMSE: 1.1736
+      trainMAE: 0.7046
+     trainRMSE: 1.1793
+            r2: 0.8809
+         adjR2: 0.8768
+         preds: [3000x1 double]
+         model: [465x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.5291e+008
+      runtimes: [3000x1 double]
+           MAE: 0.7069
+          RMSE: 1.1736
+      trainMAE: 0.7046
+     trainRMSE: 1.1793
+            r2: 0.8809
+         adjR2: 0.8768
+         preds: [3000x1 double]
+         model: [465x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.5291e+008
+      runtimes: [3000x1 double]
+           MAE: 0.7069
+          RMSE: 1.1736
+      trainMAE: 0.7046
+     trainRMSE: 1.1793
+            r2: 0.8809
+         adjR2: 0.8768
+         preds: [3000x1 double]
+         model: [465x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.9427
+          RMSE: 1.3546
+      trainMAE: 0.9529
+     trainRMSE: 1.3662
+            r2: 0.8402
+         adjR2: 0.8394
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.5291e+008
+      runtimes: [3000x1 double]
+           MAE: 0.7069
+          RMSE: 1.1736
+      trainMAE: 0.7046
+     trainRMSE: 1.1793
+            r2: 0.8809
+         adjR2: 0.8768
+         preds: [3000x1 double]
+         model: [465x1 double]
+      testmean: -2.9594
+
+Reporting Statistics for SAPS
+    condNumber: 1.6399e+012
+      runtimes: [3000x1 double]
+           MAE: 0.2550
+          RMSE: 0.3476
+      trainMAE: 0.2555
+     trainRMSE: 0.3463
+            r2: 0.7108
+         adjR2: 0.7093
+         preds: [3000x1 double]
+         model: [69x1 double]
+      testmean: 0.6146
+
+Reporting Statistics for SAPS
+    condNumber: 4.7859e+008
+      runtimes: [3000x1 double]
+           MAE: 0.1877
+          RMSE: 0.2743
+      trainMAE: 0.1827
+     trainRMSE: 0.2693
+            r2: 0.8250
+         adjR2: 0.8136
+         preds: [3000x1 double]
+         model: [861x1 double]
+      testmean: 0.6146
+
